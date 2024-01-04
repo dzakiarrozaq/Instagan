@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Instagan</string>
+    <string name="dashboard_story">Instagan</string>
+    <string name="signup">Daftar</string>
+    <string name="signin">Masuk</string>
+    <string name="info">Informasi</string>
+    <string name="signout">Keluar akun</string>
+    <string name="add_story">Tambah Cerita</string>
+    <string name="detail_story">Detail Cerita</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="name">Nama</string>
+    <string name="have_account">Belum Punya Akun?</string>
+    <string name="gallery">Galeri</string>
+    <string name="save">Simpan</string>
+    <string name="input_name">Masukan Nama</string>
+    <string name="label_validation_password">Password tidak boleh kurang dari 8 karakter</string>
+    <string name="created_date">Tanggal Dibuat</string>
+    <string name="input_password">Masukan Password</string>
+    <string name="camera">Kamera</string>
+    <string name="description">Deskripsi</string>
+    <string name="validate_register_success">User telah dibuat!</string>
+    <string name="copyright">© 2023</string>
+    <string name="validate_register_failed">Email sudah ada!</string>
+    <string name="label_invalid_email">Format Email tidak valid</string>
+    <string name="login_user_not_found">User tidak ditemukan!</string>
+    <string name="validate_login_success">Login berhasil!</string>
+    <string name="input_email">Masukan Email</string>
+    <string name="image_mandatory">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="permission">Tidak mendapatkan izin.</string>
+    <string name="description_mandatory">Deskripsi harus di isi</string>
+    <string name="choose_picture">Pilih Gambar</string>
+    <string name="failed_bring_up_camera">Gagal mengaktifkan kamera.</string>
+    <string name="failed_take_picture">Gagal memotret gambar.</string>
+
+
+</resources>
